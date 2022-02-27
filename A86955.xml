@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A famous victory obtained before the city of Exeter, on Sunday Ianuary 1. by Captaine Pym, against Sir Ralph Hopton, and the Cornish cavaliers where after foure houres fight, he obtained a glorious victory, and slew above a thousand of the cavaliers, and tooke 38. prisoners, and 7. pieces of ordnance, with the losse of a hundred men at the most. Being the copie of a letter, sent from Lievetenant Hyword, to his worthy friend, inhabiting in the Citie of London. Bearing date January 2. 1643.</title>
+            <author>Hyword, Abel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86955</idno>
+            <idno type="STC">Wing H3891</idno>
+            <idno type="STC">Thomason E84_24</idno>
+            <idno type="STC">ESTC R8536</idno>
+            <idno type="EEBO-CITATION">99873337</idno>
+            <idno type="PROQUEST">99873337</idno>
+            <idno type="VID">125804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125804)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A famous victory obtained before the city of Exeter, on Sunday Ianuary 1. by Captaine Pym, against Sir Ralph Hopton, and the Cornish cavaliers where after foure houres fight, he obtained a glorious victory, and slew above a thousand of the cavaliers, and tooke 38. prisoners, and 7. pieces of ordnance, with the losse of a hundred men at the most. Being the copie of a letter, sent from Lievetenant Hyword, to his worthy friend, inhabiting in the Citie of London. Bearing date January 2. 1643.</title>
+                  <author>Hyword, Abel.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>January 6. Printed for I.H. and T. Finch,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Abell Hyword.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652 --  Early works to 1800.</term>
+               <term>Pym, Alexander, d. 1660 --  Early works to 1800.</term>
+               <term>Exeter (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125804:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>A Famous VICTORY Obtained before the City of <hi>Exeter,</hi> on Sunday <hi>Ianuary</hi> 1. by Captaine PYM, Againſt Sir <hi>Ralph Hopton,</hi> and the <hi>Corniſh</hi> CAVALIERS Where after foure houres fight, he obtained a glorious Victory, and ſlew above a thouſand of the Cavaliers, and tooke 38. Priſoners, and 7. pieces of Ordnance, with the loſſe of a hundred men at the moſt.</p>
+            <p>Being the Copie of a Letter, ſent from Lievetenant <hi>HYWORD,</hi> To his worthy Friend, inhabiting in the Citie of <hi>London.</hi>
+            </p>
+            <p>Bearing date <hi>January</hi> 2. 1643.</p>
+            <p>
+               <hi>January</hi> 6. Printed for <hi>I. H.</hi> and <hi>T. Finch,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125804:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb facs="tcp:125804:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>A Famous VICTORY: Obtained by Captain <hi>Pym,</hi> before the Citie of <hi>EXETER.</hi> Againſt Sir Ralph Hopton; And the reſt of the Corniſh Cavaliers.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y Love to you, having ſo fit an opportunity (by reaſon my Captaine had occaſion to ſend a Poſt to <hi>London,</hi> J did eſteeme it a tye of Friendſhip, to ſalute you with this ſhort Scedule, wherein is
+<pb facs="tcp:125804:3"/>
+               <!-- PDF PAGE 33 -->
+contained a generall of our Proceedings ſince my laſt Letter.</p>
+            <p>On <hi>Chriſtmas</hi> day we had a falce alla<g ref="char:EOLhyphen"/>rum, by reaſon that ſome three Hundred of Sir <hi>Ralph Hoptons</hi> Troopers had ſcouted out, and were pillaging the Country Vil<g ref="char:EOLhyphen"/>ages thereabouts, by which meanes the Country roſe, and we were commanded to leave the Church, and Arme our ſelves, the Citie being all in an uprore, but be<g ref="char:EOLhyphen"/>fore we could quit the City, and arrive at the place where the Cavaliers were, (not<g ref="char:EOLhyphen"/>withſtanding though the inhabitants had made ſome oppoſition, to the loſſe of ſix men,) yet they were eſcaped, and got in<g ref="char:EOLhyphen"/>to <hi>Kings-bridge,</hi> where <hi>Sir Ralph Hopton</hi> himſelfe is quartered, ſo that for that time we retreated to the City, which at our re<g ref="char:EOLhyphen"/>turne we found pretty well appeaſed.</p>
+            <p>All the weeke after we did little, one<g ref="char:EOLhyphen"/>ly we ſent out parties to diſcover whe<g ref="char:EOLhyphen"/>ther the Cavaliers made any attempt upon any part of the County, but they lay very cloſe not making the leaſt attempt, one<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:125804:3"/>
+               <!-- PDF PAGE 33 -->
+we were informed that <hi>Sir Ralph Hop<g ref="char:EOLhyphen"/>ton</hi> called a generall Muſter, but how ma<g ref="char:EOLhyphen"/>ny he muſtered we can by no meanes get certaine knowledge of, but the report is that he is about five thouſand ſtrong.</p>
+            <p>Thus we continued till Sunday mor<g ref="char:EOLhyphen"/>ning (being Newyeares-day) about three of the clocke in the morning, J being ri<g ref="char:EOLhyphen"/>ding the Round, to diſcover whether my Centries did their duty carefully, on a ſud<g ref="char:EOLhyphen"/>den J diſcovered neere forty Horſemen ſtealing upon my Centries, and one of their Piſtols immediately went off by an accident, (as was confeſt by one that was afterward taken priſoner) which the Cen<g ref="char:EOLhyphen"/>tries hearing, diſcharged their Carbines, and retreated to the Court of Guard, and in a quarter of an Houre the City was in a poſture of defence, onely the cryes of women and Chilldren did ſo trouble us, that J profeſſe J had rather oppoſe an E<g ref="char:EOLhyphen"/>nemy in the field, though with ſome diſ<g ref="char:EOLhyphen"/>advantage. then to endure that torment in a City moſt ſtrongly fortefied.</p>
+            <p>
+               <pb facs="tcp:125804:4"/>
+               <!-- PDF PAGE 34 -->
+During this hurly-burly the day aproch<g ref="char:EOLhyphen"/>ed and then we might diſcover a mighty ſtrength which had begirt the City on each ſide, and planted Ordnance againſt our Bulworkes, at which they fired nere thirty times endeavouring to diſmount our Ordnance, but did us litle hurt, onely kild five of our metroſes, and one Caunonier.</p>
+            <p>During this time our Cannons played at them, doing indifferent good executi<g ref="char:EOLhyphen"/>on, for they lay open to us upon the ſide of a hill which lies on the ſouth ſide of the City.</p>
+            <p>Thus they held us play on every ſide for the ſpace of three houers, inſomuch that we were almoſt ſpent and tyred out. eſpecially on that part of the City which lyes North-eaſt, for by the violence of the Enemy our men was beaten from the workes, and they began to draw ſo nigh the wall that they began to caſt Grana<g ref="char:EOLhyphen"/>does over the wall into the City.</p>
+            <p>And one remarkeable token of Gods
+<pb facs="tcp:125804:4"/>
+               <!-- PDF PAGE 34 -->
+mercy to us J cannot omit, one <hi>Thomas Smith</hi> with a bull-hide fell upon ſix Gra<g ref="char:EOLhyphen"/>nadoes, at ſeverall times and put them out before they broke, and came off unhurt, which other wiſe would have done great miſcheife.</p>
+            <p>The enemy finding that that part of the City began to give way to them drew up their maine forces, to that place lea<g ref="char:EOLhyphen"/>ving their Ordnance playing againſt us, guarded with ſome ſmall number of men, which my Captaine eſpying, drew up part of his men to the number of eight hundred and ſallied out upon them, and with the loſſe of five and twenty men he ceized their Ordnance, and took ſeventeene Cannoniers Priſoners.</p>
+            <p>By this time the Contry came in and fell upon Sir <hi>Ralph Hoptons</hi> Reare, and Cap taine Pym upon his flancke with his owne Ordnance ſo mauled him that pre<g ref="char:EOLhyphen"/>ſently he retreated, and having got clere of our forces betooke himſelfe to flight, in this battell we ſlew above a thouſand
+<pb facs="tcp:125804:5"/>
+               <!-- PDF PAGE 35 -->
+of his men, and loſt not above foureſcore, or a hundred at the moſt, beſides we took<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeven pieces of Artillery. and eigth and thirty priſoners, but none of any Note, and now we are in greater hope then e<g ref="char:EOLhyphen"/>ver, that we ſhall put Sir <hi>Ralph Hopton</hi> to a <hi>Non-plus,</hi> fot my Captaine is reſolved to purſue him, and uſe all meanes to pre<g ref="char:EOLhyphen"/>vent his making Head againe.</p>
+            <p>This is all that for this time J have to write, onely as occaſion ſhall offer it ſelfe I ſhall give you information of our ſuture proceedings.</p>
+            <closer>
+               <signed>Your Friend and Servant, <hi>Abell Hyword.</hi>
+               </signed>
+               <dateline>Exeter, <date>Ianuary. 2. 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
